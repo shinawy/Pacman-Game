@@ -1,0 +1,22 @@
+﻿  Game.cpp
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Game.cpp(263,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Game.cpp(263,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Game.cpp(266,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Game.cpp(266,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Debug\Project1.exe
