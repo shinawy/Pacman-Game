@@ -1,0 +1,43 @@
+﻿  Ghost.cpp
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(28,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(28,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(98,8): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(99,7): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(163,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(163,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(165,20): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Ghost.cpp(165,18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> E:\The American University in Cairo\Spring 2020\CS 110\Project\Code\Project1\Debug\Project1.exe
